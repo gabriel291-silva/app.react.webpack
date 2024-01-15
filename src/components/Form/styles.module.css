@@ -1,0 +1,16 @@
+.form {
+  display: flex;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 0px 8px;
+}
+
+.button {
+  width: 183px;
+  height: 40px;
+}
+
+.button:disabled {
+  opacity: 0.5;
+}

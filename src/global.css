@@ -1,0 +1,77 @@
+:root {
+  --shipping-rates-main-title-size: 2.4rem;
+  --shipping-rates-input-height: 47px;
+  --shipping-rates-input-font-size: 1.4rem;
+  --shipping-rates-button-submit-height: 47px;
+  --shipping-rates-button-submit-size: 1.5rem;
+  --shipping-rates-button-submit-bg: #121212;
+  --shipping-rates-button-submit-text-color: #ffffff;
+  --shipping-rates-text-size: 1.6rem;
+}
+
+/* div#coupons_stacker_wrapper {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+div#coupons_stacker_wrapper label {
+  width: 60px !important;
+  font-weight: lighter !important;
+  font-size: 20px !important;
+  text-transform: lowercase;
+  width: 250px;
+  height: 50px !important;
+  display: flex;
+  align-items: center;
+  margin: 0 !important;
+}
+div#stack-discounts-input-block {
+  display: flex !important;
+  align-items: center !important;
+}
+div.stack-discounts-input-wrapper {
+  width: 280px !important;
+  height: 30px !important;
+  display: flex;
+  align-items: center;
+}
+div.stack-discounts-input-wrapper input {
+  width: 100% !important;
+  max-width: 148px !important;
+  height: 30px !important;
+  border: 0 !important;
+  outline: none !important;
+  padding: 0px 8px !important;
+  color: #de4338 !important;
+  background-color: transparent !important;
+  margin: 0px !important;
+}
+div.stack-discounts-input-wrapper input::placeholder {
+  font-size: 18px !important;
+  color: #000 !important;
+  font-weight: bold !important;
+}
+div.stack-discounts-input-wrapper button {
+  width: 100px;
+  height: 28.19px;
+  text-transform: lowercase !important;
+  font-size: 15px;
+  background-color: #de4338 !important;
+}
+button#coupons_stacker_add_button span {
+  color: #fff !important;
+}
+
+div#coupons_stacker_wrapper {
+  position: relative;
+  height: 55px !important;
+}
+
+div#stack-discounts-input-block div.stack-discounts-message span {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin-top: 10px !important;
+  color: #de4338 !important;
+  font-weight: lighter !important;
+} */

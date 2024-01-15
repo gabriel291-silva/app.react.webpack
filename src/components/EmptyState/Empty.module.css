@@ -1,0 +1,27 @@
+.emptyStateContainert {
+  width: 100%;
+  font-family: "Futura", sans-serif;
+  transform: translateY(-2px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.wrapperClose {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+
+.wrapperClose svg {
+  width: 20px;
+  height: 20px;
+  stroke: #de4338;
+}
